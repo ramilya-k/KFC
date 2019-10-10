@@ -1,4 +1,4 @@
-public class Burgers {
+public class Burger {
     long id;
     String name;
     int weight;
