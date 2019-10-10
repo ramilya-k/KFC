@@ -1,5 +1,6 @@
 public class Burger {
     long id;
+    String imageUrl;
     String name;
     int weight;
     String description;
